@@ -68,7 +68,7 @@ net_name = 'DiffMamba'
 paras_dict = {'net_name':net_name,'dataset_index':dataset_index,'num_list':num_list,
               'lr':learning_rate,'seed_list':seed_list}
 
-data_set_name_list = ['UP', 'HanChuan', 'HongHu', 'Houston']
+data_set_name_list = ['UP', 'HanChuan', 'Houston']
 data_set_name = data_set_name_list[dataset_index]
 
 if data_set_name in ['HanChuan','Houston']:
