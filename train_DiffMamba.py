@@ -12,7 +12,6 @@ from utils.HSICommonUtils import normlize3D, ImageStretching
 from utils.setup_logger import setup_logger
 from utils.visual_predict import visualize_predict
 from PIL import Image
-
 from model.DiffMamba import DiffMamba
 
 torch.autograd.set_detect_anomaly(True)
