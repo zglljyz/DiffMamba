@@ -33,13 +33,13 @@ data
     ├── PaviaU.mat 
     └── PaviaU_gt.mat
     ...
-└── Houston/
-    ├── Houston.mat 
-    └── Houston_GT.mat
-    ...
 └── HanChuan/
     ├── WHU_Hi_HanChuan.mat 
     └── WHU_Hi_HanChuan_gt.mat
+    ...
+└── Houston/
+    ├── Houston.mat 
+    └── Houston_GT.mat
 ```
 
 
